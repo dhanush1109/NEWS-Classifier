@@ -23,17 +23,17 @@ Place the trained model (the_model.h5), label encoder (encoder_kaggle.pkl), and 
 
 Run the Streamlit app:
 
-bash
-Copy code
+```bash
 streamlit run app.py
+```
 This will launch a local development server and open the app in your default web browser.
 
-How to Use
-Once the app is running, you will see the input fields for the headline and description of a news article.
+# How to Use
+1. Once the app is running, you will see the input fields for the headline and description of a news article.
 
-Enter the headline and description of the news article you want to classify.
+2.Enter the headline and description of the news article you want to classify.
 
-Click the "Predict" button to see the predicted category for the provided news article.
+3.Click the "Predict" button to see the predicted category for the provided news article.
 
-Custom Styling
+# Custom Styling
 The app features custom CSS styles for the button. If you'd like to modify the styles, you can do so in the app.py file, where the CSS styles are defined in the markdown function.
