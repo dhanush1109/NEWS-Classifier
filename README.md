@@ -13,11 +13,12 @@ Before running the application, ensure you have the following dependencies insta
 pip install tensorflow streamlit numpy
 ```
 Getting Started
+
 Clone this repository to your local machine:
-bash
-Copy code
+
+```bash
 git clone https://github.com/your-username/news-category-classification.git
-cd news-category-classification
+```
 Place the trained model (the_model.h5), label encoder (encoder_kaggle.pkl), and tokenizer (tokenizer_kaggle.pkl) files in the same directory as the app.py script.
 
 Run the Streamlit app:
