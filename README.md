@@ -61,9 +61,9 @@ This will launch a local development server and open the app in your default web
 
 1. Once the app is running, you will see the input fields for the headline and description of a news article.
 
-2.Enter the headline and description of the news article you want to classify.
+2. Enter the headline and description of the news article you want to classify.
 
-3.Click the "Predict" button to see the predicted category for the provided news article.
+3. Click the "Predict" button to see the predicted category for the provided news article.
 
 # Custom Styling
 The app features custom CSS styles for the button. If you'd like to modify the styles, you can do so in the app.py file, where the CSS styles are defined in the markdown function.
