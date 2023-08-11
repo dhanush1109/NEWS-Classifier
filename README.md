@@ -20,7 +20,13 @@ Clone this repository to your local machine:
 git clone https://github.com/your-username/news-category-classification.git
 ```
 Place the trained model (the_model.h5), label encoder (encoder_kaggle.pkl), and tokenizer (tokenizer_kaggle.pkl) files in the same directory as the app.py script.
+# Installation
 
+Before running the code, you'll need to make sure you have the required libraries installed. You can install them using the following commands:
+
+```bash
+pip install pandas numpy matplotlib seaborn wordcloud nltk keras tensorflow
+```
 Run the Streamlit app:
 
 ```bash
