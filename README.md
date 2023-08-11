@@ -11,6 +11,7 @@ Before running the application, ensure you have the following dependencies insta
 
 ```bash
 pip install tensorflow streamlit numpy
+```
 Getting Started
 Clone this repository to your local machine:
 bash
