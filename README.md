@@ -29,6 +29,7 @@ streamlit run app.py
 This will launch a local development server and open the app in your default web browser.
 
 # How to Use
+
 1. Once the app is running, you will see the input fields for the headline and description of a news article.
 
 2.Enter the headline and description of the news article you want to classify.
