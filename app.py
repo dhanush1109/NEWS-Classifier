@@ -78,7 +78,7 @@ def main():
 
     # Footer
     st.markdown("---")
-    st.write("Made with :heart: by Dhanush Devadiga")
+    st.write("Made with :heart: by Your Name")
 
 if __name__ == '__main__':
     main()
